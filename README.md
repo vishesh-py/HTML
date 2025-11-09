@@ -68,7 +68,7 @@
 <p>The project is live on <strong>Vercel</strong></p>
 <p>👉 <a href="https://html-smoky-two.vercel.app/" target="_blank">html-smoky-two.vercel.app</a></p>
 
-<p>If you think, if any betterment and change is needed you are invited to contribute in it. Opensource for a reason :)</p>
+<p>If you think, any betterment and change is needed you are invited to contribute in it. Opensource for a reason :)</p>
 
 <h2>⭐ Support</h2>
 
@@ -79,3 +79,4 @@
 
 <p>Thank you for visiting! 💫<br>
 Have a great time exploring and keep building amazing things ✨</p>
+
