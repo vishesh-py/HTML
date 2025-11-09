@@ -1,50 +1,81 @@
-Just a simple static site deployed for learning and testing purposes! 🚀
+<p>Just a simple <strong>static site</strong> deployed for learning and testing purposes! 🚀</p>
 
-🧠 Concepts Used:
+<h1>🧠 Concepts Used</h1>
 
-This project covers a variety of HTML fundamentals, organized into key sections for easy reference:
+<p>This project covers a variety of <strong>HTML fundamentals</strong>, organized into key sections for easy reference:</p>
 
-🏁 1. Introduction to HTML
+<h2>🏁 1. Introduction to HTML</h2>
 
-Basic structure and commonly used tags.
+<p><strong>Basic structure and commonly used tags:</strong></p>
+<ul>
+  <li>DOCTYPE html</li>
+  <li>html</li>
+  <li>head</li>
+  <li>meta</li>
+  <li>title</li>
+  <li>body</li>
+  <li>div</li>
+  <li>a (same page, another page, external links)</li>
+  <li>button</li>
+  <li>h1 – h4</li>
+  <li>p</li>
+  <li>ul, li, br</li>
+  <li>strong, i</li>
+  <li>img, iframe</li>
+  <li>audio, source, video</li>
+</ul>
 
-Tags covered:
-DOCTYPE html, html, head, meta, title, body, div, a, button, h1, h2, h3, h4, p, ul, li, br, strong, i, img, iframe, audio, source, video
+<h2>📊 2. Tables</h2>
 
-📊 2. Tables
+<p><strong>Used for representing tabular data:</strong></p>
+<ul>
+  <li>table</li>
+  <li>thead</li>
+  <li>tbody</li>
+  <li>tr</li>
+  <li>th</li>
+  <li>td</li>
+</ul>
 
-Structuring tabular data neatly and semantically.
+<h2>📝 3. Forms</h2>
 
-Tags used:
-table, thead, tbody, tr, th, td
+<p><strong>For collecting user input effectively:</strong></p>
+<ul>
+  <li>form</li>
+  <li>label</li>
+  <li>input</li>
+  <li>datalist</li>
+  <li>option</li>
+  <li>select</li>
+  <li>textarea</li>
+  <li>button</li>
+</ul>
 
-📝 3. Forms
+<h2>🧩 4. Semantic HTML</h2>
 
-Collecting user input through different types of fields.
+<p><strong>For better structure, readability, and accessibility:</strong></p>
+<ul>
+  <li>header</li>
+  <li>nav</li>
+  <li>section</li>
+  <li>footer</li>
+  <li>h1 – h4</li>
+  <li>strong</li>
+</ul>
 
-Tags used:
-form, label, input, datalist, option, select, textarea, button
+<h2>🚀 Deployment</h2>
 
-🧩 4. Semantic HTML
+<p>The project is live on <strong>Vercel</strong></p>
+<p>👉 <a href="https://html-smoky-two.vercel.app/" target="_blank">html-smoky-two.vercel.app</a></p>
 
-Making your webpage more accessible and meaningful.
+<p>If you think, if any betterment and change is needed you are invited to contribute in it. Opensource for a reason :)</p>
 
-Tags used:
-header, nav, section, footer, h1, h2, h3, h4, strong
+<h2>⭐ Support</h2>
 
-🚀 Deployment
+<p>If you found this project helpful or learned something new — ✨</p>
+<blockquote>“Star the repo if you like… otherwise, star the repo anyway 😉”</blockquote>
 
-The project is live on Vercel:
-👉 html-smoky-two.vercel.app
+<h2>💬 A Note from Me</h2>
 
-⭐ Support
-
-If you found this project helpful or learned something new —
-⭐ Star this repo and spread some motivation!
-
-“Star the repo if you like… otherwise, star the repo anyway 😉👍”
-
-💬 A Note from Me
-
-Thank you for visiting!
-Have a great time exploring and keep building ✨
+<p>Thank you for visiting! 💫<br>
+Have a great time exploring and keep building amazing things ✨</p>
