@@ -1,65 +1,50 @@
-Just a test deploy of some static sites :)
+Just a simple static site deployed for learning and testing purposes! 🚀
 
-Concept Used:
+🧠 Concepts Used:
 
-## Tags used in this repo
+This project covers a variety of HTML fundamentals, organized into key sections for easy reference:
 
-### 1) Introduction HTML
-- "DOCTYPE html"
-- html
-- head
-- meta
-- title
-- body
-- div
-- a
-- button
-- h1
-- h2
-- h3
-- h4
-- p
-- ul
-- li
-- br
-- strong
-- i
-- img
-- iframe
-- audio
-- source
-- video
+🏁 1. Introduction to HTML
 
-### 2) Table
-- table
-- thead
-- tbody
-- tr
-- th
-- td
+Basic structure and commonly used tags.
 
-### 3) Form
-- form
-- label
-- input
-- datalist
-- option
-- select
-- textarea
-- button
+Tags covered:
+DOCTYPE html, html, head, meta, title, body, div, a, button, h1, h2, h3, h4, p, ul, li, br, strong, i, img, iframe, audio, source, video
 
-### 4) Semantic HTML
-- header
-- nav
-- section
-- footer
-- h1
-- h2
-- h3
-- h4
-- strong
+📊 2. Tables
 
-Deployed on GITHUB pages - https://vishesh-py.github.io/
+Structuring tabular data neatly and semantically.
 
-Thankew for visiting!
-Have a good time ✨
+Tags used:
+table, thead, tbody, tr, th, td
+
+📝 3. Forms
+
+Collecting user input through different types of fields.
+
+Tags used:
+form, label, input, datalist, option, select, textarea, button
+
+🧩 4. Semantic HTML
+
+Making your webpage more accessible and meaningful.
+
+Tags used:
+header, nav, section, footer, h1, h2, h3, h4, strong
+
+🚀 Deployment
+
+The project is live on Vercel:
+👉 html-smoky-two.vercel.app
+
+⭐ Support
+
+If you found this project helpful or learned something new —
+⭐ Star this repo and spread some motivation!
+
+“Star the repo if you like… otherwise, star the repo anyway 😉👍”
+
+💬 A Note from Me
+
+Thank you for visiting!
+Have a great time exploring and keep building ✨
