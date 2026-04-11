@@ -13,7 +13,7 @@ Use this when you need to revise HTML quickly before practice/interview/lab work
 5. `contact.html`: Full form controls + FAQ content.
 6. Shared layout on all main pages: `header`, `nav`, `section`, `footer`, and a "Back to Top" link.
 
-## Project Structure
+## Project Structure 🪷
 
 ```text
 .
@@ -141,5 +141,4 @@ Suggestions and improvements are welcome. Feel free to open an issue or submit a
 
 ## Support
 
-If this helped in your HTML revision, consider starring the repo.
-
+If this helped in your HTML revision, consider starring the repo ⭐
